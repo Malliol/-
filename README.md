@@ -1,4 +1,5 @@
 # ОПЛАТА на сервисе mgnhost
+ссылка на сам хостинг: https://my.mgnhost.com/billmgr?sfrom=loginform
 
 ТЕМА: ОПЛАТА ХОСТИНГА 
 
