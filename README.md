@@ -7,31 +7,31 @@
 
 # В правом верхнем углу есть вкладка БАЛЛАНС, нажимаете на нее
 
-![image](https://user-images.githubusercontent.com/90931685/167908020-8ea077be-b712-444c-9443-75c313bc6e51.png)
+![image](https://user-images.githubusercontent.com/90931685/167918300-ea5bf615-34f2-45ce-80ba-f7dec51c0549.png)
 
 # 1 ШАГ: перед вами окно оплаты сдесь вы вводите сумму платежа и удобный для вас способ оплаты 
  
- ![image](https://user-images.githubusercontent.com/90931685/167908408-cdc4cd54-e420-4faa-ab52-74027e478f8e.png)
+![image](https://user-images.githubusercontent.com/90931685/167918407-15f605f9-b321-498c-980f-7df177ec83a9.png)
 
 # 1: сначало сумма 
 
-![image](https://user-images.githubusercontent.com/90931685/167908477-9693b11b-e379-4059-b72f-f5ebd7df92df.png)
+![image](https://user-images.githubusercontent.com/90931685/167918485-acd1b3ab-64ac-4b4e-b55e-ae62d8ae599f.png)
 
 # 2: потом способ оплаты 
  
- ![image](https://user-images.githubusercontent.com/90931685/167909321-2e174685-c9d2-4353-9e93-07949f7228c7.png)
+![image](https://user-images.githubusercontent.com/90931685/167918573-8bc8b849-948d-490e-a992-9b41f238e330.png)
 
 # 2 ШАГ: дальше вы видите перед собой окно с плательщиком но тут ничего не меняее и нажимаете ДАЛЕЕ>>
 
-![image](https://user-images.githubusercontent.com/90931685/167908823-a7cd2568-b054-4111-91dd-b8bf855a1a41.png)
+![image](https://user-images.githubusercontent.com/90931685/167918632-5d85e055-17e6-48e1-b104-6b4ad9a7dcd6.png)
 
 # 3 ШАГ: и в следующем поле вы нащимате ДАЛЕЕ>>
 
-![image](https://user-images.githubusercontent.com/90931685/167908923-37739684-cd88-43eb-9223-e077021ad104.png)
+![image](https://user-images.githubusercontent.com/90931685/167918657-551cbfcb-cd9c-4f09-8431-4f1b7a57e035.png)
 
 # 4 ШАГ: и дальше перед вами Подтверждение оплаты вы нажимаете на кнопку ОПЛАТА 
 
-![image](https://user-images.githubusercontent.com/90931685/167908990-ea02d107-d708-43b3-95c4-17cdbaf5775c.png)
+![image](https://user-images.githubusercontent.com/90931685/167918687-84025c2a-5e2d-44ba-8242-5adce5150593.png)
 
  
  # И тут вы переходите на страничку с ВВОДОМ банкавских данных, вводите свои данные с картачки и готово
